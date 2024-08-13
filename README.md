@@ -1,1 +1,1 @@
-# D6_Ak-sSemasi_Dizi_Pointer_Dosyalama_Fonksiyonlar.ipynb
+# D6_AkısSemasi_Dizi_Pointer_Dosyalama_Fonksiyonlar.ipynb
